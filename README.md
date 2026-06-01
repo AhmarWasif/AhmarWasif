@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ahmar 👋
 
-<!--
-**AhmarWasif/AhmarWasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategy & operations leader at Deloitte who builds AI-native products.
+I work across enterprise AI strategy, operating models, and execution
+systems — and I ship my own AI tools end-to-end.
 
-Here are some ideas to get you started:
+### Selected builds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Company Brief](link)** — an agentic Chrome extension that researches
+any company from its website: autonomously reads pages, runs live web
+searches, and generates a structured brief. Multi-step tool orchestration.
+
+**[Venture Funnel](link)** — an interactive dashboard on 1,200 AI/SaaS
+funding rounds with live filtering and a natural-language "ask the data"
+layer, engineered to refuse questions its data can't honestly answer.
+
+**[Cover Letter Generator](link)** — an AI writing tool with secure,
+cost-governed API architecture.
+
+Each one explores a different AI architecture: one-shot generation,
+data reasoning with aggregated context, and agentic tool use.
+
+📍 Toronto · [LinkedIn](your-linkedin-url)
