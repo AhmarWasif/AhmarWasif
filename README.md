@@ -6,15 +6,15 @@ systems — and I ship my own AI tools end-to-end.
 
 ### Selected builds
 
-**[Company Brief](link)** — an agentic Chrome extension that researches
+**[Company Brief](https://github.com/AhmarWasif/company-brief-extension)** — an agentic Chrome extension that researches
 any company from its website: autonomously reads pages, runs live web
 searches, and generates a structured brief. Multi-step tool orchestration.
 
-**[Venture Funnel](link)** — an interactive dashboard on 1,200 AI/SaaS
+**[Venture Funnel](https://github.com/AhmarWasif/vc-funding-dashboard)** — an interactive dashboard on 1,200 AI/SaaS
 funding rounds with live filtering and a natural-language "ask the data"
 layer, engineered to refuse questions its data can't honestly answer.
 
-**[Cover Letter Generator](link)** — an AI writing tool with secure,
+**[Cover Letter Generator](https://github.com/AhmarWasif/cover-letter-generator)** — an AI writing tool with secure,
 cost-governed API architecture.
 
 Each one explores a different AI architecture: one-shot generation,
