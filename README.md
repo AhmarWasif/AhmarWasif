@@ -1,8 +1,6 @@
 # Hi, I'm Ahmar 👋
 
-Strategy & operations leader at Deloitte who builds AI-native products.
-I work across enterprise AI strategy, operating models, and execution
-systems — and I ship my own AI tools end-to-end.
+I find the repetitive, judgment-heavy work operators actually do — research, analysis, copywriting — and build the system that does it. Same instinct I bring at Deloitte, shipped solo.
 
 ### Selected builds
 
@@ -12,6 +10,5 @@ systems — and I ship my own AI tools end-to-end.
 
 **[Cover Letter Generator](https://github.com/AhmarWasif/cover-letter-generator)** — An AI writing tool I built to get the production layer right: secure API-key handling, hard cost controls, and usage governance enforced at the code level — not bolted on after. The unglamorous infrastructure that decides whether an AI feature ships safely and on budget, and the same spend-and-governance discipline I bring to enterprise AI.
 
-I find the repetitive, judgment-heavy work operators actually do — research, analysis, copywriting — and build the system that does it. Same instinct I bring at Deloitte, shipped solo.
 
 📍 Toronto · [LinkedIn](your-linkedin-url)
