@@ -11,4 +11,4 @@ I find the repetitive, judgment-heavy work operators actually do — research, a
 **[Cadence](https://github.com/AhmarWasif/cadence)** — The weekly operating review is judgment work: what's actually off track, what's noise, what leadership needs to hear in thirty seconds. Cadence turns messy operating data into a leadership-ready readout — and the real move is underneath it: a deterministic engine computes every status, trend, and anomaly in plain code, while the AI only explains and prioritizes on top. It can't hallucinate a metric or flip a status, because it never touches the math. Numbers an exec can trust, narrated like a chief of staff would write them.
 
 
-📍 Toronto · [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/ahmar-wasif/))
+📍 Toronto · **[LinkedIn](https://www.linkedin.com/in/ahmar-wasif/)**
